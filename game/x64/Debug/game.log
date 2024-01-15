@@ -1,0 +1,81 @@
+﻿  create_shader_program.cpp
+C:\coding\C++\game\game\create_shader_program.cpp(20,48): error C2065: 'GL_VERTEX_SHADER': undeclared identifier
+C:\coding\C++\game\game\create_shader_program.cpp(20,33): error C3861: 'glCreateShader': identifier not found
+C:\coding\C++\game\game\create_shader_program.cpp(21,58): error C2065: 'NULL': undeclared identifier
+C:\coding\C++\game\game\create_shader_program.cpp(21,5): error C3861: 'glShaderSource': identifier not found
+C:\coding\C++\game\game\create_shader_program.cpp(22,5): error C3861: 'glCompileShader': identifier not found
+C:\coding\C++\game\game\create_shader_program.cpp(26,33): error C2065: 'GL_COMPILE_STATUS': undeclared identifier
+C:\coding\C++\game\game\create_shader_program.cpp(26,5): error C3861: 'glGetShaderiv': identifier not found
+C:\coding\C++\game\game\create_shader_program.cpp(29,47): error C2065: 'NULL': undeclared identifier
+C:\coding\C++\game\game\create_shader_program.cpp(29,9): error C3861: 'glGetShaderInfoLog': identifier not found
+C:\coding\C++\game\game\create_shader_program.cpp(30,14): error C2039: 'cout': is not a member of 'std'
+  C:\coding\C++\game\game\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\coding\C++\game\game\create_shader_program.cpp(30,14): error C2065: 'cout': undeclared identifier
+C:\coding\C++\game\game\create_shader_program.cpp(30,87): error C2039: 'endl': is not a member of 'std'
+  C:\coding\C++\game\game\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\coding\C++\game\game\create_shader_program.cpp(30,87): error C2065: 'endl': undeclared identifier
+C:\coding\C++\game\game\create_shader_program.cpp(33,50): error C2065: 'GL_FRAGMENT_SHADER': undeclared identifier
+C:\coding\C++\game\game\create_shader_program.cpp(33,35): error C3861: 'glCreateShader': identifier not found
+C:\coding\C++\game\game\create_shader_program.cpp(34,62): error C2065: 'NULL': undeclared identifier
+C:\coding\C++\game\game\create_shader_program.cpp(34,5): error C3861: 'glShaderSource': identifier not found
+C:\coding\C++\game\game\create_shader_program.cpp(35,5): error C3861: 'glCompileShader': identifier not found
+C:\coding\C++\game\game\create_shader_program.cpp(37,35): error C2065: 'GL_COMPILE_STATUS': undeclared identifier
+C:\coding\C++\game\game\create_shader_program.cpp(37,5): error C3861: 'glGetShaderiv': identifier not found
+C:\coding\C++\game\game\create_shader_program.cpp(40,49): error C2065: 'NULL': undeclared identifier
+C:\coding\C++\game\game\create_shader_program.cpp(40,9): error C3861: 'glGetShaderInfoLog': identifier not found
+C:\coding\C++\game\game\create_shader_program.cpp(41,14): error C2039: 'cout': is not a member of 'std'
+  C:\coding\C++\game\game\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\coding\C++\game\game\create_shader_program.cpp(41,14): error C2065: 'cout': undeclared identifier
+C:\coding\C++\game\game\create_shader_program.cpp(41,89): error C2039: 'endl': is not a member of 'std'
+  C:\coding\C++\game\game\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\coding\C++\game\game\create_shader_program.cpp(41,89): error C2065: 'endl': undeclared identifier
+C:\coding\C++\game\game\create_shader_program.cpp(44,34): error C3861: 'glCreateProgram': identifier not found
+C:\coding\C++\game\game\create_shader_program.cpp(45,5): error C3861: 'glAttachShader': identifier not found
+C:\coding\C++\game\game\create_shader_program.cpp(46,5): error C3861: 'glAttachShader': identifier not found
+C:\coding\C++\game\game\create_shader_program.cpp(47,5): error C3861: 'glLinkProgram': identifier not found
+C:\coding\C++\game\game\create_shader_program.cpp(49,35): error C2065: 'GL_LINK_STATUS': undeclared identifier
+C:\coding\C++\game\game\create_shader_program.cpp(49,5): error C3861: 'glGetProgramiv': identifier not found
+C:\coding\C++\game\game\create_shader_program.cpp(51,49): error C2065: 'NULL': undeclared identifier
+C:\coding\C++\game\game\create_shader_program.cpp(51,9): error C3861: 'glGetProgramInfoLog': identifier not found
+C:\coding\C++\game\game\create_shader_program.cpp(52,14): error C2039: 'cout': is not a member of 'std'
+  C:\coding\C++\game\game\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\coding\C++\game\game\create_shader_program.cpp(52,14): error C2065: 'cout': undeclared identifier
+C:\coding\C++\game\game\create_shader_program.cpp(52,84): error C2039: 'endl': is not a member of 'std'
+  C:\coding\C++\game\game\predefined C++ types (compiler internal)(348,11):
+  see declaration of 'std'
+  
+C:\coding\C++\game\game\create_shader_program.cpp(52,84): error C2065: 'endl': undeclared identifier
+C:\coding\C++\game\game\create_shader_program.cpp(54,5): error C3861: 'glDeleteShader': identifier not found
+C:\coding\C++\game\game\create_shader_program.cpp(55,5): error C3861: 'glDeleteShader': identifier not found
+  render_triangle.cpp
+C:\coding\C++\game\game\render_triangle.cpp(5,5): error C3861: 'glGenVertexArrays': identifier not found
+C:\coding\C++\game\game\render_triangle.cpp(6,5): error C3861: 'glGenBuffers': identifier not found
+C:\coding\C++\game\game\render_triangle.cpp(8,5): error C3861: 'glBindVertexArray': identifier not found
+C:\coding\C++\game\game\render_triangle.cpp(10,18): error C2065: 'GL_ARRAY_BUFFER': undeclared identifier
+C:\coding\C++\game\game\render_triangle.cpp(10,5): error C3861: 'glBindBuffer': identifier not found
+C:\coding\C++\game\game\render_triangle.cpp(11,18): error C2065: 'GL_ARRAY_BUFFER': undeclared identifier
+C:\coding\C++\game\game\render_triangle.cpp(11,63): error C2065: 'GL_STATIC_DRAW': undeclared identifier
+C:\coding\C++\game\game\render_triangle.cpp(11,5): error C3861: 'glBufferData': identifier not found
+C:\coding\C++\game\game\render_triangle.cpp(13,33): error C2065: 'GL_FLOAT': undeclared identifier
+C:\coding\C++\game\game\render_triangle.cpp(13,43): error C2065: 'GL_FALSE': undeclared identifier
+C:\coding\C++\game\game\render_triangle.cpp(13,5): error C3861: 'glVertexAttribPointer': identifier not found
+C:\coding\C++\game\game\render_triangle.cpp(14,5): error C3861: 'glEnableVertexAttribArray': identifier not found
+C:\coding\C++\game\game\render_triangle.cpp(17,18): error C2065: 'GL_ARRAY_BUFFER': undeclared identifier
+C:\coding\C++\game\game\render_triangle.cpp(17,5): error C3861: 'glBindBuffer': identifier not found
+C:\coding\C++\game\game\render_triangle.cpp(21,5): error C3861: 'glBindVertexArray': identifier not found
+C:\coding\C++\game\game\render_triangle.cpp(24,18): error C2065: 'shaderProgram': undeclared identifier
+C:\coding\C++\game\game\render_triangle.cpp(24,5): error C3861: 'glUseProgram': identifier not found
+C:\coding\C++\game\game\render_triangle.cpp(25,5): error C3861: 'glBindVertexArray': identifier not found
+C:\coding\C++\game\game\render_triangle.cpp(26,18): error C2065: 'GL_TRIANGLES': undeclared identifier
+C:\coding\C++\game\game\render_triangle.cpp(26,5): error C3861: 'glDrawArrays': identifier not found
+  Generating Code...
