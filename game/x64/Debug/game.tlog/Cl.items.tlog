@@ -1,6 +1,6 @@
-C:\deps\src\glad.c;C:\coding\C++\game\game\x64\Debug\glad.obj
-C:\coding\C++\game\game\create_shader_programm.cpp;C:\coding\C++\game\game\x64\Debug\create_shader_programm.obj
-C:\coding\C++\game\game\init_screen.cpp;C:\coding\C++\game\game\x64\Debug\init_screen.obj
-C:\coding\C++\game\game\main.cpp;C:\coding\C++\game\game\x64\Debug\main.obj
-C:\coding\C++\game\game\render_triangle.cpp;C:\coding\C++\game\game\x64\Debug\render_triangle.obj
-C:\coding\C++\game\game\sdl_die.cpp;C:\coding\C++\game\game\x64\Debug\sdl_die.obj
+C:\deps\src\glad.c;C:\coding\C++\engine\game\x64\Debug\glad.obj
+C:\coding\C++\engine\game\create_shader_program.cpp;C:\coding\C++\engine\game\x64\Debug\create_shader_program.obj
+C:\coding\C++\engine\game\init_screen.cpp;C:\coding\C++\engine\game\x64\Debug\init_screen.obj
+C:\coding\C++\engine\game\main.cpp;C:\coding\C++\engine\game\x64\Debug\main.obj
+C:\coding\C++\engine\game\render_triangle.cpp;C:\coding\C++\engine\game\x64\Debug\render_triangle.obj
+C:\coding\C++\engine\game\sdl_die.cpp;C:\coding\C++\engine\game\x64\Debug\sdl_die.obj

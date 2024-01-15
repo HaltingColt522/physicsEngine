@@ -13,6 +13,8 @@ const char* fragmentShaderSource = "#version 330 core\n"
 "   FragColor = vec4(1.0f, 0.5f, 0.2f, 1.0f);\n"
 "}\n\0";
 
+unsigned int shaderProgram = NULL;
+
 void create_shader_program() {
     // build and compile our shader program
    // ------------------------------------
