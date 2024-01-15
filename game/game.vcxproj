@@ -138,10 +138,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="..\..\..\..\deps\src\glad.c" />
-    <ClCompile Include="create_shader_program.cpp" />
     <ClCompile Include="init_screen.cpp" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="render_triangle.cpp" />
     <ClCompile Include="sdl_die.cpp" />
   </ItemGroup>
   <ItemGroup>

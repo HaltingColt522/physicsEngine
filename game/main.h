@@ -1,5 +1,7 @@
 #pragma once
 
+//TODO: link 
+
 // includes //
 
 #include <cstdio>
@@ -14,6 +16,8 @@
 
 #include "glad/glad.h"
 
+#include <vector>
+
 // variables declaration //
 
 extern const int SCREEN_FULLSCREEN;
@@ -22,12 +26,7 @@ extern const int SCREEN_HEIGHT;
 extern SDL_Window* window;
 extern SDL_GLContext maincontext;
 
-extern unsigned int shaderProgram;
-
 // function declaration //
 
 void sdl_die(const char* message);
 void init_screen(const char* caption);
-
-void create_shader_program();
-void render_triangle(float vertices[]);

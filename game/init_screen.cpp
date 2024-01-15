@@ -51,15 +51,8 @@ void init_screen(const char* caption) {
     printf("Renderer: %s\n", glGetString(GL_RENDERER));
     printf("Version:  %s\n", glGetString(GL_VERSION));
 
-    // Use v-sync
-    SDL_GL_SetSwapInterval(1);
-
-    // Disable depth test and face culling.
-    glDisable(GL_DEPTH_TEST);
-    glDisable(GL_CULL_FACE);
 
     int w, h;
     SDL_GetWindowSize(window, &w, &h);
     glViewport(0, 0, w, h);
-    glClearColor(0.0, 0.5, 1.0, 0.0);
 }
