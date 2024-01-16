@@ -137,10 +137,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\deps\src\glad.c" />
     <ClCompile Include="init_screen.cpp" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="sdl_die.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main.h" />
