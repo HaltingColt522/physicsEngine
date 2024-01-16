@@ -11,7 +11,7 @@ const std::vector< SDL_Vertex > verts =
 
 int main(int argc, char* argv[]) {
     // create window //
-    init_screen("OpenGL 4.5");
+    init_screen("physics engine");
 
     // main loop //
     SDL_Event event;

@@ -1,5 +1,2 @@
 ﻿  init_screen.cpp
-  main.cpp
-C:\coding\C++\engine\game\main.cpp(29,71): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-  Generating Code...
-  game.vcxproj -> C:\coding\C++\engine\x64\Debug\game.exe
+  game.vcxproj -> C:\coding\C++\physicsEngine\x64\Debug\game.exe
